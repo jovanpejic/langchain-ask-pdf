@@ -9,7 +9,6 @@ from langchain.llms import OpenAI
 
 
 
-
 def main():
     load_dotenv()
     st.set_page_config(page_title="Ask your PDF")
